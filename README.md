@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I´m a Junior Developer👋
 
 <!--
 **hectorvcc/hectorvcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,php,aws)](https://skillicons.dev)
-![image](https://github.com/user-attachments/assets/18404482-ce14-4c53-8790-3ebb92a9faac)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,php,aws,)](https://skillicons.dev)
+
+![image](https://github.com/user-attachments/assets/8fb06287-019d-42c3-aa8d-cc6e6403b62e)

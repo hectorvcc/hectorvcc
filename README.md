@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,stackoverflow,spring,laravel,jenkins,saas,postman,docker,kubernetes,maven,gradle"/>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,stackoverflow,spring,laravel,jenkins,sass,postman,docker,kubernetes,maven,gradle"/>
   </a>
 </p>
 
@@ -114,8 +114,9 @@ Here are some ideas to get you started:
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
+
+<!-- FUTURO CAMBIO
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-<!--
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
@@ -234,4 +235,4 @@ Here are some ideas to get you started:
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,spring,php,aws,)](https://skillicons.dev)
+

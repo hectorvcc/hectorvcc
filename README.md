@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 # <picture>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/> </picture> Para contactar
 <p align="center">
-	<a href="mailto:hectorv.10@hotmail.es"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=35px, width=100px/></a>
-	<a href="https://www.linkedin.com/in/hvcc"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=35px, width=100px></a>
+	<a href="mailto:hectorv.10@hotmail.es"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=30px, width=100px/></a>
+	<a href="https://www.linkedin.com/in/hvcc"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=30px, width=100px></a>
 </p>
 
 
@@ -80,28 +80,28 @@ Here are some ideas to get you started:
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" width="120" height="30"/></a>	
+    <a href="#"><img alt = "Codeforces" src="https://img.shields.io/badge/codeforces%20-%231F8ACB.svg?style=plastic&logo=codeforces&logoColor=white" width="110" height="28"/></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" width="120" height="30"/></a>
+    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" width="110" height="28"/></a>
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" width="120" height="30"/></a>
+    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" width="110" height="28"/></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" width="120" height="30"/></a>
+    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" width="110" height="28"/></a>
   &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" width="120" height="30"/></a>
+    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" width="110" height="28"/></a>
   &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" width="120" height="30"/></a>
+    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" width="110" height="28"/></a>
 </p>
 
  ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
  
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"width="100" height="30"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"width="100" height="28"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" width="100" height="30"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white" width="100" height="28"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="100" height="30"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" width="100" height="28"></a>
 </p>
 
 <br> 

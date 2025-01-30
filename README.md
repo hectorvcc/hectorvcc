@@ -12,14 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 
 <h1 align="center">Hola👋, soy Héctor un DevJunior ✨ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+@bld.ai;Computer+Science+Student;Competitive+Programmer;2x+ACPC+Finalist;Expert+on+Codeforces;Division+1+on+Codechef+(5+Stars);4+Kyu+on+Atcoder;Always+learning+new+things"></a>
 </p>
 
-
+<p align = "center">
+	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
+</p>
 <br>
 
 <p align="center"> 
@@ -42,14 +48,13 @@ Here are some ideas to get you started:
 
 <br><br>
 
-- :school: I am a `Junior` at [Superior Technical Degreee] at (https://www.iestetuan.es/cmsj/servicios/aulas-virtuales.html).
-- :trophy: 2x `ACPC` Finalist.
-- :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly_Website).
+- :school: Soy un `Programador Junior` at (https://www.iestetuan.es).
+- :technologist: Me gusta usar tecnologias para solucionar `Problemas`.
+- :computer: Soy un programador competitivo en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :student: Ahora estoy aprendiendo nuevas tecnologias de `Ciencias de la computación` and `IA`.
+- :nerd_face: Siempre `aprendiendo nuevas cosas`.
+- :thinking: Estoy actualmente buscando por un `Puesto laboral`, este es mi [CV](https://cutt.ly/ve42SNMr).
+- :boom: Puedes visitar aqui [MI PAGINA WEB](https://cutt.ly_Website).
 <br>
 
 
@@ -197,7 +202,7 @@ Here are some ideas to get you started:
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="frases" /></p>
 
 </details>
 

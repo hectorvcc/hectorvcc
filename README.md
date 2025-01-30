@@ -25,17 +25,16 @@ Here are some ideas to get you started:
 
 <br>
 
-- :school: Soy un `Programador Junior` at (https://www.iestetuan.es).
 - :technologist: Me gusta usar tecnologias para solucionar `Problemas`.
 - :computer: Soy un programador competitivo en `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- :student: Ahora estoy aprendiendo nuevas tecnologias de `Ciencias de la computación` and `IA`.
+- :student: Ahora estoy aprendiendo nuevas tecnologias de `Ciencias de la computación` e `IA`.
 - :nerd_face: Siempre `aprendiendo nuevas cosas`.
 - :thinking: Estoy actualmente buscando por un `Puesto laboral`, este es mi [CV](https://cutt.ly/ve42SNMr).
 - :boom: Puedes visitar aqui [MI PAGINA WEB](https://cutt.ly_Website).
 <br>
 
 
-## <picture>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> </picture> Contacta conmigo
+## <picture>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> </picture> Para contactar
 <p align="center">
 	<a href="mailto:hectorv.10@hotmail.es"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=30px, width=100px/></a>
 	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" height=30px, width=100px/></a>
@@ -66,7 +65,7 @@ Here are some ideas to get you started:
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,git,stackoverflow,spring,laravel,jenkins,sass,postman,docker,kubernetes,maven,gradle"/>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,git,stackoverflow,spring,laravel,jenkins,sass,postman,docker,kubernetes,maven,gradle,figma"/>
   </a>
 </p>
 

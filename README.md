@@ -34,17 +34,17 @@ Here are some ideas to get you started:
 <br>
 
 
-# <picture>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> </picture> Para contactar
+# <picture>  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px" alt="Git"/> </picture> Para contactar
 <p align="center">
-	<a href="mailto:hectorv.10@hotmail.es"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=30px, width=100px/></a>
-	<a href="https://www.linkedin.com/in/hvcc"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=30px, width=100px></a>
+	<a href="mailto:hectorv.10@hotmail.es"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height=35px, width=100px/></a>
+	<a href="https://www.linkedin.com/in/hvcc"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height=35px, width=100px></a>
 </p>
 
 
 
 # 🛠️ Mis skills
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture> Lenguajes de Programación
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 35px>  </picture> Lenguajes de Programación
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Frontend Development
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 35px>  </picture> Frontend Development
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px>  </picture> Software & Tools
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 35px>  </picture> Software & Tools
  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture> IDEs
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 35px>  </picture> IDEs
  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 30px>  </picture> Competitive Programming & Problem Solving
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 35px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -129,8 +129,8 @@ Here are some ideas to get you started:
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
+	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="235px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="235px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.

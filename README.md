@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 # 🛠️ Mis skills
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 30px>  </picture> Lenguajes de Programación
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 30px>  </picture> Frontend Development
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 30px>  </picture> Software & Tools
  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 30px>  </picture> IDEs
  
 <p align="center">
   <a href="https://skillicons.dev">
@@ -76,7 +76,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
- ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Competitive Programming & Problem Solving
+ ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 30px>  </picture> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;

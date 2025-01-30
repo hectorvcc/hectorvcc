@@ -66,7 +66,7 @@ Here are some ideas to get you started:
  
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,mysql,git,github,stackoverflow,spring,laravel,jenkins,sass,postman,docker,kubernetes,maven,gradle"/>
+    <img src="https://skillicons.dev/icons?i=aws,mysql,git,stackoverflow,spring,laravel,jenkins,sass,postman,docker,kubernetes,maven,gradle"/>
   </a>
 </p>
 

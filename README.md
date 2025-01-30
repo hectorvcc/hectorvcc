@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Lenguajes de Programación
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,py,js" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,js"/>
   </a>
 </p>
 
